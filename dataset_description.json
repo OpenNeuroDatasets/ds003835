@@ -15,5 +15,8 @@
     "License": "CC0",
     "ReferencesAndLinks": [
         "Sinclair, A.H., Manalili, G.M., Brunec, I.K., Adcock, R.A., & Barense, M.D. (2021). Prediction errors disrupt hippocampal representations and update episodic memories. bioRxiv. DOI: https://doi.org/10.1101/2020.09.29.319418"
+    ],
+    "EthicsApprovals": [
+        "The study was approved by the IRB at the University of Toronto, protocol #00035787"
     ]
 }
